@@ -27,6 +27,7 @@ public class Curso {
 
 
 
+
     public void ingresarMateria(){
         System.out.print("Ingresar el nombre de la materia: ");
         String nombre = scanner.nextLine();
